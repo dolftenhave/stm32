@@ -2,8 +2,14 @@
 
 This repo contains some info and helper scripts that I use for my STM32 tool chain.
 
+- [Boards](#boards)
 - [Setup](#Setup)
 - [Starting a new project](#starting-a-new-project)
+
+## Boards
+
+- [STM32F407G-disc1](F407G/README.md)
+- `NUCLEO-F446RE`. *(Have not used it yet hence no folder)*.
 
 ## Setup
 
