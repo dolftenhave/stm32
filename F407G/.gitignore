@@ -1,0 +1,5 @@
+# Ignore all my projects bar the ones i specify.
+/*
+
+!.gitignore
+!README.md
