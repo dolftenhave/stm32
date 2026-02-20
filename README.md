@@ -8,7 +8,7 @@ This repo contains some info and helper scripts that I use for my STM32 tool cha
 
 ## Boards
 
-- [STM32F407G-disc1](F407G/README.md)
+- [STM32F407G-disc1](F407G/)
 - `NUCLEO-F446RE`. *(Have not used it yet hence no folder)*.
 
 ## Setup
